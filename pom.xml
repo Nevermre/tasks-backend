@@ -16,7 +16,7 @@
 	<packaging>war</packaging>
 	<description>A very simple task management tool</description>
 
-	<properties>
+	<properties> 
 		<java.version>1.8</java.version>
 		<sonar.core.codeCoveragePlugin>jacoco</sonar.core.codeCoveragePlugin>
 		<sonar.dynamicAnalysis>reuseReports</sonar.dynamicAnalysis>
